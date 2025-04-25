@@ -1,0 +1,2302 @@
+[
+  {
+    "species_code": "dltcuc1",
+    "comName": "Dusky Long-tailed Cuckoo",
+    "sciName": "Cercococcyx mechowi"
+  },
+  {
+    "species_code": "oltcuc1",
+    "comName": "Olive Long-tailed Cuckoo",
+    "sciName": "Cercococcyx olivinus"
+  },
+  {
+    "species_code": "motswi2",
+    "comName": "Mottled Swift",
+    "sciName": "Tachymarptis aequatorialis"
+  },
+  {
+    "species_code": "stbflu1",
+    "comName": "Streaky-breasted Flufftail",
+    "sciName": "Sarothrura boehmi"
+  },
+  {
+    "species_code": "reepuf1",
+    "comName": "Red-eyed Puffback",
+    "sciName": "Dryoscopus senegalensis"
+  },
+  {
+    "species_code": "brhapa1",
+    "comName": "Brown-headed Apalis",
+    "sciName": "Apalis alticola"
+  },
+  {
+    "species_code": "camscw1",
+    "comName": "Evergreen-forest Warbler",
+    "sciName": "Bradypterus lopezi"
+  },
+  {
+    "species_code": "whtgre4",
+    "comName": "Angola Greenbul",
+    "sciName": "Phyllastrephus viridiceps"
+  },
+  {
+    "species_code": "lauwow1",
+    "comName": "Laura's Woodland-Warbler",
+    "sciName": "Phylloscopus laurae"
+  },
+  {
+    "species_code": "fosrob1",
+    "comName": "Forest Scrub-Robin",
+    "sciName": "Tychaedon leucosticta"
+  },
+  {
+    "species_code": "misrob1",
+    "comName": "Miombo Scrub-Robin",
+    "sciName": "Tychaedon barbata"
+  },
+  {
+    "species_code": "bansun3",
+    "comName": "Bannerman's Sunbird",
+    "sciName": "Cyanomitra bannermani"
+  },
+  {
+    "species_code": "miosun2",
+    "comName": "Western Miombo Sunbird",
+    "sciName": "Cinnyris gertrudis"
+  },
+  {
+    "species_code": "x00804",
+    "comName": "Lineated x Black-bodied Woodpecker (hybrid)",
+    "sciName": "Dryocopus lineatus x schulzii"
+  },
+  {
+    "species_code": "papnee1",
+    "comName": "Papuan Spinetail",
+    "sciName": "Mearnsia novaeguineae"
+  },
+  {
+    "species_code": "necstp1",
+    "comName": "New Caledonian Storm-Petrel",
+    "sciName": "Fregetta lineata"
+  },
+  {
+    "species_code": "x00809",
+    "comName": "Musk x Rainbow Lorikeet (hybrid)",
+    "sciName": "Trichoglossus concinnus x moluccanus"
+  },
+  {
+    "species_code": "x00856",
+    "comName": "lorikeet sp. (Musk/Rainbow/Scaly-breasted Lorikeet hybrid)",
+    "sciName": "Trichoglossus sp. (Musk/Rainbow/Scaly-breasted Lorikeet hybrid)"
+  },
+  {
+    "species_code": "strgra4",
+    "comName": "Pilbara Grasswren",
+    "sciName": "Amytornis whitei"
+  },
+  {
+    "species_code": "sangra1",
+    "comName": "Sandhill Grasswren",
+    "sciName": "Amytornis oweni"
+  },
+  {
+    "species_code": "kimhon1",
+    "comName": "Kimberley Honeyeater",
+    "sciName": "Meliphaga fordiana"
+  },
+  {
+    "species_code": "eunhon1",
+    "comName": "Eungella Honeyeater",
+    "sciName": "Bolemoreus hindwoodi"
+  },
+  {
+    "species_code": "whbscr3",
+    "comName": "Spotted Scrubwren",
+    "sciName": "Sericornis maculatus"
+  },
+  {
+    "species_code": "moutho1",
+    "comName": "Mountain Thornbill",
+    "sciName": "Acanthiza katherina"
+  },
+  {
+    "species_code": "x00936",
+    "comName": "Yellow-rumped x Chestnut-breasted Munia (hybrid)",
+    "sciName": "Lonchura flaviprymna x castaneothorax"
+  },
+  {
+    "species_code": "bltcuc1",
+    "comName": "Barred Long-tailed Cuckoo",
+    "sciName": "Cercococcyx montanus"
+  },
+  {
+    "species_code": "ruwapa1",
+    "comName": "Rwenzori Apalis",
+    "sciName": "Oreolais ruwenzorii"
+  },
+  {
+    "species_code": "grswar1",
+    "comName": "Grauer's Swamp Warbler",
+    "sciName": "Bradypterus graueri"
+  },
+  {
+    "species_code": "hirwar2",
+    "comName": "Highland Rush Warbler",
+    "sciName": "Bradypterus centralis"
+  },
+  {
+    "species_code": "easmog5",
+    "comName": "Kikuyu Mountain Greenbul",
+    "sciName": "Arizelocichla kikuyuensis"
+  },
+  {
+    "species_code": "afhbab3",
+    "comName": "Rwenzori Hill Babbler",
+    "sciName": "Sylvia atriceps"
+  },
+  {
+    "species_code": "yebfly2",
+    "comName": "Yellow-eyed Black-Flycatcher",
+    "sciName": "Melaenornis ardesiacus"
+  },
+  {
+    "species_code": "x00993",
+    "comName": "Emperor x Barnacle Goose (hybrid)",
+    "sciName": "Anser canagicus x Branta leucopsis"
+  },
+  {
+    "species_code": "x01137",
+    "comName": "Black-throated x Naumann's Thrush (hybrid)",
+    "sciName": "Turdus atrogularis x naumanni"
+  },
+  {
+    "species_code": "puvill1",
+    "comName": "Puvel's Illadopsis",
+    "sciName": "Illadopsis puveli"
+  },
+  {
+    "species_code": "anawax1",
+    "comName": "Anambra Waxbill",
+    "sciName": "Estrilda poliopareia"
+  },
+  {
+    "species_code": "rewpyt1",
+    "comName": "Red-winged Pytilia",
+    "sciName": "Pytilia phoenicoptera"
+  },
+  {
+    "species_code": "topwhy1",
+    "comName": "Togo Paradise-Whydah",
+    "sciName": "Vidua togoensis"
+  },
+  {
+    "species_code": "sthsee3",
+    "comName": "West African Seedeater",
+    "sciName": "Crithagra canicapilla"
+  },
+  {
+    "species_code": "cacbul1",
+    "comName": "Cachar Bulbul",
+    "sciName": "Iole cacharensis"
+  },
+  {
+    "species_code": "bnhnut2",
+    "comName": "Bahama Nuthatch",
+    "sciName": "Sitta insularis"
+  },
+  {
+    "species_code": "rufant3",
+    "comName": "Rufous-fronted Antthrush",
+    "sciName": "Formicarius rufifrons"
+  },
+  {
+    "species_code": "x01078",
+    "comName": "White-throated x Red-throated Piping-Guan (hybrid)",
+    "sciName": "Pipile grayi x cujubi"
+  },
+  {
+    "species_code": "marher1",
+    "comName": "Maranhao Hermit (unrecognized species)",
+    "sciName": "Phaethornis maranhaoensis [unrecognized species]"
+  },
+  {
+    "species_code": "x00769",
+    "comName": "Amazonian x Rufous-capped Motmot (hybrid)",
+    "sciName": "Momotus momota x Baryphthengus ruficapillus"
+  },
+  {
+    "species_code": "whbfie9",
+    "comName": "Tapajos Fire-eye",
+    "sciName": "Pyriglena similis"
+  },
+  {
+    "species_code": "x00960",
+    "comName": "Helmeted x Swallow-tailed Manakin (hybrid)",
+    "sciName": "Chiroxiphia galeata x caudata"
+  },
+  {
+    "species_code": "masyel2",
+    "comName": "Masked Yellowthroat",
+    "sciName": "Geothlypis aequinoctialis"
+  },
+  {
+    "species_code": "x00487",
+    "comName": "Golden-crowned x Flavescent Warbler (hybrid)",
+    "sciName": "Basileuterus culicivorus x Myiothlypis flaveola"
+  },
+  {
+    "species_code": "colowl3",
+    "comName": "Sunda Owlet",
+    "sciName": "Taenioptynx sylvaticus"
+  },
+  {
+    "species_code": "crebul1",
+    "comName": "Cream-eyed Bulbul",
+    "sciName": "Pycnonotus pseudosimplex"
+  },
+  {
+    "species_code": "whcbab1",
+    "comName": "White-chested Babbler",
+    "sciName": "Pellorneum rostratum"
+  },
+  {
+    "species_code": "saaswi1",
+    "comName": "Salim Ali's Swift",
+    "sciName": "Apus salimalii"
+  },
+  {
+    "species_code": "sicthr1",
+    "comName": "Sichuan Thrush",
+    "sciName": "Zoothera griseiceps"
+  },
+  {
+    "species_code": "rubsho1",
+    "comName": "Rusty-bellied Shortwing",
+    "sciName": "Brachypteryx hyperythra"
+  },
+  {
+    "species_code": "blfrob1",
+    "comName": "Blue-fronted Robin",
+    "sciName": "Cinclidium frontale"
+  },
+  {
+    "species_code": "bronig1",
+    "comName": "Brown Nightjar",
+    "sciName": "Veles binotatus"
+  },
+  {
+    "species_code": "blaspi1",
+    "comName": "Black Spinetail",
+    "sciName": "Telacanthura melanopygia"
+  },
+  {
+    "species_code": "sabspi1",
+    "comName": "Sabine's Spinetail",
+    "sciName": "Rhaphidura sabini"
+  },
+  {
+    "species_code": "bkdhor2",
+    "comName": "Eastern Dwarf Hornbill",
+    "sciName": "Horizocerus granti"
+  },
+  {
+    "species_code": "spohon2",
+    "comName": "Spotted Honeyguide",
+    "sciName": "Indicator maculatus"
+  },
+  {
+    "species_code": "verbat1",
+    "comName": "Verreaux's Batis",
+    "sciName": "Batis minima"
+  },
+  {
+    "species_code": "grbere1",
+    "comName": "Green-backed Eremomela",
+    "sciName": "Eremomela canescens"
+  },
+  {
+    "species_code": "lesbri1",
+    "comName": "Yellow-lored Bristlebill",
+    "sciName": "Bleda notatus"
+  },
+  {
+    "species_code": "lesbri3",
+    "comName": "Yellow-eyed Bristlebill",
+    "sciName": "Bleda ugandae"
+  },
+  {
+    "species_code": "thrbab1",
+    "comName": "Thrush Babbler",
+    "sciName": "Illadopsis turdina"
+  },
+  {
+    "species_code": "gamfly1",
+    "comName": "Gambaga Flycatcher",
+    "sciName": "Muscicapa gambagae"
+  },
+  {
+    "species_code": "olifly1",
+    "comName": "Olivaceous Flycatcher",
+    "sciName": "Fraseria olivascens"
+  },
+  {
+    "species_code": "rebmal1",
+    "comName": "Red-bellied Malimbe",
+    "sciName": "Malimbus erythrogaster"
+  },
+  {
+    "species_code": "camind1",
+    "comName": "Cameroon Indigobird",
+    "sciName": "Vidua camerunensis"
+  },
+  {
+    "species_code": "rnxsap1",
+    "comName": "Red-naped x Red-breasted Sapsucker (hybrid)",
+    "sciName": "Sphyrapicus nuchalis x ruber"
+  },
+  {
+    "species_code": "x01052",
+    "comName": "Yellow-bellied/Red-naped x Red-breasted Sapsucker (hybrid)",
+    "sciName": "Sphyrapicus varius/nuchalis x ruber"
+  },
+  {
+    "species_code": "andstp1",
+    "comName": "Andean Storm-Petrel (unrecognized species)",
+    "sciName": "Oceanites barrosi [unrecognized species]"
+  },
+  {
+    "species_code": "jfttyr1",
+    "comName": "Juan Fernandez Tit-Tyrant",
+    "sciName": "Anairetes fernandezianus"
+  },
+  {
+    "species_code": "sicpar1",
+    "comName": "Sichuan Partridge",
+    "sciName": "Arborophila rufipectus"
+  },
+  {
+    "species_code": "strpri8",
+    "comName": "Striped Prinia",
+    "sciName": "Prinia striata"
+  },
+  {
+    "species_code": "siclew1",
+    "comName": "Sichuan Leaf Warbler",
+    "sciName": "Phylloscopus forresti"
+  },
+  {
+    "species_code": "marwar4",
+    "comName": "Martens's Warbler",
+    "sciName": "Phylloscopus omeiensis"
+  },
+  {
+    "species_code": "emlwar1",
+    "comName": "Emei Leaf Warbler",
+    "sciName": "Phylloscopus emeiensis"
+  },
+  {
+    "species_code": "halwar1",
+    "comName": "Hainan Leaf Warbler",
+    "sciName": "Phylloscopus hainanus"
+  },
+  {
+    "species_code": "chiful1",
+    "comName": "Chinese Fulvetta",
+    "sciName": "Fulvetta striaticollis"
+  },
+  {
+    "species_code": "spepar2",
+    "comName": "Spectacled Parrotbill",
+    "sciName": "Suthora conspicillata"
+  },
+  {
+    "species_code": "bnwpar1",
+    "comName": "Eye-ringed Parrotbill",
+    "sciName": "Suthora ricketti"
+  },
+  {
+    "species_code": "chigra1",
+    "comName": "Chinese Grassbird",
+    "sciName": "Graminicola striatus"
+  },
+  {
+    "species_code": "gofful2",
+    "comName": "Gold-fronted Fulvetta",
+    "sciName": "Schoeniparus variegaticeps"
+  },
+  {
+    "species_code": "strbar1",
+    "comName": "Streaked Barwing",
+    "sciName": "Actinodura souliei"
+  },
+  {
+    "species_code": "grylau1",
+    "comName": "Gray Laughingthrush",
+    "sciName": "Garrulax maesi"
+  },
+  {
+    "species_code": "bielau1",
+    "comName": "Biet's Laughingthrush",
+    "sciName": "Ianthocincla bieti"
+  },
+  {
+    "species_code": "giabab1",
+    "comName": "Giant Babax",
+    "sciName": "Pterorhinus waddelli"
+  },
+  {
+    "species_code": "tibbab1",
+    "comName": "Tibetan Babax",
+    "sciName": "Pterorhinus koslowi"
+  },
+  {
+    "species_code": "x00973",
+    "comName": "Dusky x Naumann's Thrush (hybrid)",
+    "sciName": "Turdus eunomus x naumanni"
+  },
+  {
+    "species_code": "narfly1",
+    "comName": "Green-backed Flycatcher",
+    "sciName": "Ficedula elisae"
+  },
+  {
+    "species_code": "chbros1",
+    "comName": "Chinese Beautiful Rosefinch",
+    "sciName": "Carpodacus davidianus"
+  },
+  {
+    "species_code": "spwros3",
+    "comName": "Sharpe's Rosefinch",
+    "sciName": "Carpodacus verreauxii"
+  },
+  {
+    "species_code": "batswi1",
+    "comName": "Bates's Swift",
+    "sciName": "Apus batesi"
+  },
+  {
+    "species_code": "bnchor1",
+    "comName": "Brown-cheeked Hornbill",
+    "sciName": "Bycanistes cylindricus"
+  },
+  {
+    "species_code": "ruwill1",
+    "comName": "Rufous-winged Illadopsis",
+    "sciName": "Illadopsis rufescens"
+  },
+  {
+    "species_code": "tesfly1",
+    "comName": "Tessmann's Flycatcher",
+    "sciName": "Fraseria tessmanni"
+  },
+  {
+    "species_code": "balmal2",
+    "comName": "Gola Malimbe",
+    "sciName": "Malimbus ballmanni"
+  },
+  {
+    "species_code": "campig1",
+    "comName": "Cameroon Pigeon",
+    "sciName": "Columba sjostedti"
+  },
+  {
+    "species_code": "tulwoo2",
+    "comName": "Tullberg's Woodpecker",
+    "sciName": "Campethera tullbergi"
+  },
+  {
+    "species_code": "mtkbus1",
+    "comName": "Mount Kupe Bushshrike",
+    "sciName": "Chlorophoneus kupeensis"
+  },
+  {
+    "species_code": "wbcfly1",
+    "comName": "White-bellied Crested Flycatcher",
+    "sciName": "Elminia albiventris"
+  },
+  {
+    "species_code": "higlar1",
+    "comName": "Highland Lark",
+    "sciName": "Corypha kurrae"
+  },
+  {
+    "species_code": "forswa2",
+    "comName": "Forest Swallow",
+    "sciName": "Atronanus fuliginosus"
+  },
+  {
+    "species_code": "bcwwar1",
+    "comName": "Black-capped Woodland-Warbler",
+    "sciName": "Phylloscopus herberti"
+  },
+  {
+    "species_code": "ugawow1",
+    "comName": "Uganda Woodland-Warbler",
+    "sciName": "Phylloscopus budongoensis"
+  },
+  {
+    "species_code": "wtmbab1",
+    "comName": "White-throated Mountain-Babbler",
+    "sciName": "Turdoides gilberti"
+  },
+  {
+    "species_code": "bkegrt1",
+    "comName": "Black-eared Ground-Thrush",
+    "sciName": "Geokichla camaronensis"
+  },
+  {
+    "species_code": "morcha1",
+    "comName": "Mountain Robin-Chat",
+    "sciName": "Cossyphicula isabellae"
+  },
+  {
+    "species_code": "shtaka2",
+    "comName": "Short-tailed Akalat",
+    "sciName": "Sheppardia poensis"
+  },
+  {
+    "species_code": "racmal1",
+    "comName": "Rachel's Malimbe",
+    "sciName": "Malimbus racheliae"
+  },
+  {
+    "species_code": "bakind1",
+    "comName": "Barka Indigobird",
+    "sciName": "Vidua larvaticola"
+  },
+  {
+    "species_code": "shefra3",
+    "comName": "Whyte's Francolin",
+    "sciName": "Scleroptila whytei"
+  },
+  {
+    "species_code": "albowl1",
+    "comName": "Albertine Owlet",
+    "sciName": "Glaucidium albertinum"
+  },
+  {
+    "species_code": "slabar1",
+    "comName": "Sladen's Barbet",
+    "sciName": "Gymnobucco sladeni"
+  },
+  {
+    "species_code": "gracus1",
+    "comName": "Grauer's Cuckooshrike",
+    "sciName": "Ceblepyris graueri"
+  },
+  {
+    "species_code": "itubat1",
+    "comName": "Ituri Batis",
+    "sciName": "Batis ituriensis"
+  },
+  {
+    "species_code": "wisbou1",
+    "comName": "Willard's Sooty Boubou",
+    "sciName": "Laniarius willardi"
+  },
+  {
+    "species_code": "dusbab2",
+    "comName": "Dusky Babbler",
+    "sciName": "Turdoides tenebrosa"
+  },
+  {
+    "species_code": "rocsun2",
+    "comName": "Rockefeller's Sunbird",
+    "sciName": "Cinnyris rockefelleri"
+  },
+  {
+    "species_code": "consun2",
+    "comName": "Congo Sunbird",
+    "sciName": "Cinnyris congensis"
+  },
+  {
+    "species_code": "lalmaw1",
+    "comName": "Lake Lufira Masked-Weaver",
+    "sciName": "Ploceus ruweti"
+  },
+  {
+    "species_code": "shcwin1",
+    "comName": "Shelley's Crimsonwing",
+    "sciName": "Cryptospiza shelleyi"
+  },
+  {
+    "species_code": "greind1",
+    "comName": "Green Indigobird",
+    "sciName": "Vidua codringtoni"
+  },
+  {
+    "species_code": "cifdov1",
+    "comName": "Cook Islands Fruit-Dove",
+    "sciName": "Ptilinopus rarotongensis"
+  },
+  {
+    "species_code": "mankin1",
+    "comName": "Mewing Kingfisher",
+    "sciName": "Todiramphus ruficollaris"
+  },
+  {
+    "species_code": "rufant7",
+    "comName": "Muisca Antpitta",
+    "sciName": "Grallaria rufula"
+  },
+  {
+    "species_code": "calant1",
+    "comName": "Cali Antpitta (undescribed form)",
+    "sciName": "Grallaricula [undescribed Cali form]"
+  },
+  {
+    "species_code": "manwre1",
+    "comName": "Mantaro Wren (undescribed form)",
+    "sciName": "Pheugopedius [undescribed form]"
+  },
+  {
+    "species_code": "x00868",
+    "comName": "Golden-fronted x Spectacled Redstart (hybrid)",
+    "sciName": "Myioborus ornatus x melanocephalus"
+  },
+  {
+    "species_code": "madgrp2",
+    "comName": "Comoro Green-Pigeon",
+    "sciName": "Treron griveaudi"
+  },
+  {
+    "species_code": "malspi1",
+    "comName": "Madagascar Spinetail",
+    "sciName": "Zoonavena grandidieri"
+  },
+  {
+    "species_code": "mohsco1",
+    "comName": "Moheli Scops-Owl",
+    "sciName": "Otus moheliensis"
+  },
+  {
+    "species_code": "cosowl3",
+    "comName": "Comoro Scops-Owl",
+    "sciName": "Otus pauliani"
+  },
+  {
+    "species_code": "comdro1",
+    "comName": "Grande Comore Drongo",
+    "sciName": "Dicrurus fuscipennis"
+  },
+  {
+    "species_code": "combul1",
+    "comName": "Grande Comore Bulbul",
+    "sciName": "Hypsipetes parvirostris"
+  },
+  {
+    "species_code": "mohbul1",
+    "comName": "Moheli Bulbul",
+    "sciName": "Hypsipetes moheliensis"
+  },
+  {
+    "species_code": "aleswi1",
+    "comName": "Cape Verde Swift",
+    "sciName": "Apus alexandri"
+  },
+  {
+    "species_code": "cavstp1",
+    "comName": "Cape Verde Storm-Petrel",
+    "sciName": "Hydrobates jabejabe"
+  },
+  {
+    "species_code": "x00440",
+    "comName": "Red-crowned x Hoffmann's Woodpecker (hybrid)",
+    "sciName": "Melanerpes rubricapillus x hoffmannii"
+  },
+  {
+    "species_code": "hobkit2",
+    "comName": "Cuban Kite",
+    "sciName": "Chondrohierax wilsonii"
+  },
+  {
+    "species_code": "x00935",
+    "comName": "Yellow-headed x Oriente Warbler (hybrid)",
+    "sciName": "Teretistris fernandinae x fornsi"
+  },
+  {
+    "species_code": "chiswi1",
+    "comName": "Christmas Island Swiftlet",
+    "sciName": "Collocalia natalis"
+  },
+  {
+    "species_code": "x00831",
+    "comName": "Emperor x Cackling Goose (hybrid)",
+    "sciName": "Anser canagicus x Branta hutchinsii"
+  },
+  {
+    "species_code": "somcha1",
+    "comName": "Sombre Rock Chat",
+    "sciName": "Oenanthe dubia"
+  },
+  {
+    "species_code": "brtcha1",
+    "comName": "Brown-tailed Chat",
+    "sciName": "Oenanthe scotocerca"
+  },
+  {
+    "species_code": "yerser1",
+    "comName": "Yellow-rumped Serin",
+    "sciName": "Crithagra xanthopygia"
+  },
+  {
+    "species_code": "cinwre1",
+    "comName": "Kalinago Wren",
+    "sciName": "Troglodytes martinicensis"
+  },
+  {
+    "species_code": "libbus1",
+    "comName": "Little Brown Bustard",
+    "sciName": "Heterotetrax humilis"
+  },
+  {
+    "species_code": "x00800",
+    "comName": "White-cheeked x Prince Ruspoli's Turaco (hybrid)",
+    "sciName": "Menelikornis leucotis x ruspolii"
+  },
+  {
+    "species_code": "aleowl1",
+    "comName": "Abyssinian Owl",
+    "sciName": "Asio abyssinicus"
+  },
+  {
+    "species_code": "kidlar1",
+    "comName": "Kidepo Lark",
+    "sciName": "Corypha kidepoensis"
+  },
+  {
+    "species_code": "somcro1",
+    "comName": "Somali Crombec",
+    "sciName": "Sylvietta isabellina"
+  },
+  {
+    "species_code": "abycat1",
+    "comName": "Abyssinian Catbird",
+    "sciName": "Sylvia galinieri"
+  },
+  {
+    "species_code": "rebpyt1",
+    "comName": "Red-billed Pytilia",
+    "sciName": "Pytilia lineata"
+  },
+  {
+    "species_code": "ankser2",
+    "comName": "Ankober Serin",
+    "sciName": "Crithagra ankoberensis"
+  },
+  {
+    "species_code": "venpet1",
+    "comName": "Vanuatu Petrel",
+    "sciName": "Pterodroma occulta"
+  },
+  {
+    "species_code": "whtwhi1",
+    "comName": "White-throated Fiji Whistler",
+    "sciName": "Pachycephala vitiensis"
+  },
+  {
+    "species_code": "silkta3",
+    "comName": "Natewa Silktail",
+    "sciName": "Lamprolia klinesmithi"
+  },
+  {
+    "species_code": "ogemon1",
+    "comName": "Ogea Monarch",
+    "sciName": "Mayrornis versicolor"
+  },
+  {
+    "species_code": "chtfly1",
+    "comName": "Chestnut-throated Flycatcher",
+    "sciName": "Myiagra castaneigularis"
+  },
+  {
+    "species_code": "lolwar1",
+    "comName": "Long-legged Thicketbird",
+    "sciName": "Cincloramphus rufus"
+  },
+  {
+    "species_code": "malfir1",
+    "comName": "Mali Firefinch",
+    "sciName": "Lagonosticta virata"
+  },
+  {
+    "species_code": "houwre11",
+    "comName": "Grenada Wren",
+    "sciName": "Troglodytes grenadensis"
+  },
+  {
+    "species_code": "atigre1",
+    "comName": "Atitlan Grebe",
+    "sciName": "Podilymbus gigas"
+  },
+  {
+    "species_code": "marswi",
+    "comName": "Mariana Swiftlet",
+    "sciName": "Aerodramus bartschi"
+  },
+  {
+    "species_code": "x00853",
+    "comName": "Hoffmann's x Golden-fronted Woodpecker (hybrid)",
+    "sciName": "Melanerpes hoffmannii x aurifrons"
+  },
+  {
+    "species_code": "negscr1",
+    "comName": "New Guinea Megapode",
+    "sciName": "Megapodius decollatus"
+  },
+  {
+    "species_code": "gybpar5",
+    "comName": "Roll's Partridge",
+    "sciName": "Arborophila rolli"
+  },
+  {
+    "species_code": "gybpar6",
+    "comName": "Sumatran Partridge",
+    "sciName": "Arborophila sumatrana"
+  },
+  {
+    "species_code": "engcud1",
+    "comName": "Enggano Cuckoo-Dove",
+    "sciName": "Macropygia cinnamomea"
+  },
+  {
+    "species_code": "sulcud2",
+    "comName": "Sula Cuckoo-Dove",
+    "sciName": "Turacoena sulaensis"
+  },
+  {
+    "species_code": "wegdov1",
+    "comName": "Wetar Ground Dove",
+    "sciName": "Pampusana hoedtii"
+  },
+  {
+    "species_code": "macfrd1",
+    "comName": "Maroon-chinned Fruit-Dove",
+    "sciName": "Ptilinopus epius"
+  },
+  {
+    "species_code": "macfrd2",
+    "comName": "Sula Fruit-Dove",
+    "sciName": "Ptilinopus mangoliensis"
+  },
+  {
+    "species_code": "gyhimp1",
+    "comName": "Gray-headed Imperial-Pigeon",
+    "sciName": "Ducula radiata"
+  },
+  {
+    "species_code": "wheimp1",
+    "comName": "Seram Imperial-Pigeon",
+    "sciName": "Ducula neglecta"
+  },
+  {
+    "species_code": "spiimp2",
+    "comName": "Geelvink Imperial-Pigeon",
+    "sciName": "Ducula geelvinkiana"
+  },
+  {
+    "species_code": "rufimp1",
+    "comName": "Rufescent Imperial-Pigeon",
+    "sciName": "Ducula chalconota"
+  },
+  {
+    "species_code": "chbmal3",
+    "comName": "Mentawai Malkoha",
+    "sciName": "Phaenicophaeus oeneicaudus"
+  },
+  {
+    "species_code": "litbrc5",
+    "comName": "Pied Bronze-Cuckoo",
+    "sciName": "Chalcites crassirostris"
+  },
+  {
+    "species_code": "brucuc5",
+    "comName": "Sulawesi Brush Cuckoo",
+    "sciName": "Cacomantis virescens"
+  },
+  {
+    "species_code": "brucuc15",
+    "comName": "Tanimbar Brush Cuckoo (undescribed form)",
+    "sciName": "Cacomantis [undescribed form]"
+  },
+  {
+    "species_code": "asidrc4",
+    "comName": "Moluccan Drongo-Cuckoo",
+    "sciName": "Surniculus musschenbroeki"
+  },
+  {
+    "species_code": "papnig1",
+    "comName": "Papuan Nightjar",
+    "sciName": "Eurostopodus papuensis"
+  },
+  {
+    "species_code": "arcnig1",
+    "comName": "Archbold's Nightjar",
+    "sciName": "Eurostopodus archboldi"
+  },
+  {
+    "species_code": "purnee1",
+    "comName": "Purple Needletail",
+    "sciName": "Hirundapus celebensis"
+  },
+  {
+    "species_code": "watswi1",
+    "comName": "Waterfall Swift",
+    "sciName": "Hydrochous gigas"
+  },
+  {
+    "species_code": "tenswi1",
+    "comName": "Tenggara Swiftlet",
+    "sciName": "Collocalia sumbawae"
+  },
+  {
+    "species_code": "draswi1",
+    "comName": "Drab Swiftlet",
+    "sciName": "Collocalia neglecta"
+  },
+  {
+    "species_code": "molswi5",
+    "comName": "Moluccan Swiftlet",
+    "sciName": "Aerodramus infuscatus"
+  },
+  {
+    "species_code": "mouswi2",
+    "comName": "Mountain Swiftlet",
+    "sciName": "Aerodramus hirundinaceus"
+  },
+  {
+    "species_code": "volswi1",
+    "comName": "Volcano Swiftlet",
+    "sciName": "Aerodramus vulcanorum"
+  },
+  {
+    "species_code": "mayrai1",
+    "comName": "Mayr's Forest Rail",
+    "sciName": "Rallicula mayri"
+  },
+  {
+    "species_code": "talrai1",
+    "comName": "Talaud Rail",
+    "sciName": "Gymnocrex talaudensis"
+  },
+  {
+    "species_code": "talbuh1",
+    "comName": "Talaud Bush-hen",
+    "sciName": "Amaurornis magnirostris"
+  },
+  {
+    "species_code": "duswoo3",
+    "comName": "New Guinea Woodcock",
+    "sciName": "Scolopax rosenbergii"
+  },
+  {
+    "species_code": "sulwoo1",
+    "comName": "Sulawesi Woodcock",
+    "sciName": "Scolopax celebensis"
+  },
+  {
+    "species_code": "becpet1",
+    "comName": "Beck's Petrel",
+    "sciName": "Pseudobulweria becki"
+  },
+  {
+    "species_code": "moseag1",
+    "comName": "Mountain Serpent-Eagle",
+    "sciName": "Spilornis kinabaluensis"
+  },
+  {
+    "species_code": "sermao1",
+    "comName": "Seram Masked-Owl",
+    "sciName": "Tyto almae"
+  },
+  {
+    "species_code": "jasowl2",
+    "comName": "Javan Scops-Owl",
+    "sciName": "Otus angelinae"
+  },
+  {
+    "species_code": "mesowl1",
+    "comName": "Mentawai Scops-Owl",
+    "sciName": "Otus mentawi"
+  },
+  {
+    "species_code": "molsco2",
+    "comName": "Wetar Scops-Owl",
+    "sciName": "Otus tempestatis"
+  },
+  {
+    "species_code": "sansco1",
+    "comName": "Sangihe Scops-Owl",
+    "sciName": "Otus collari"
+  },
+  {
+    "species_code": "lickin1",
+    "comName": "Sangihe Lilac Kingfisher",
+    "sciName": "Cittura sanghirensis"
+  },
+  {
+    "species_code": "moubar1",
+    "comName": "Mountain Barbet",
+    "sciName": "Psilopogon monticola"
+  },
+  {
+    "species_code": "burpar5",
+    "comName": "Simeulue Parrot",
+    "sciName": "Psittinus abbotti"
+  },
+  {
+    "species_code": "strlor1",
+    "comName": "Striated Lorikeet",
+    "sciName": "Charmosyna multistriata"
+  },
+  {
+    "species_code": "wahpar2",
+    "comName": "Wallace's Hanging-Parrot",
+    "sciName": "Loriculus flosculus"
+  },
+  {
+    "species_code": "sompit1",
+    "comName": "South Moluccan Pitta",
+    "sciName": "Erythropitta rubrinucha"
+  },
+  {
+    "species_code": "crhmyz1",
+    "comName": "Crimson-hooded Myzomela",
+    "sciName": "Myzomela kuehni"
+  },
+  {
+    "species_code": "summyz1",
+    "comName": "Sumba Myzomela",
+    "sciName": "Myzomela dammermani"
+  },
+  {
+    "species_code": "sulmyz3",
+    "comName": "Bacan Myzomela",
+    "sciName": "Myzomela batjanensis"
+  },
+  {
+    "species_code": "talmyz1",
+    "comName": "Taliabu Myzomela",
+    "sciName": "Myzomela wahe"
+  },
+  {
+    "species_code": "leahon1",
+    "comName": "Leaden Honeyeater",
+    "sciName": "Ptiloprora plumbea"
+  },
+  {
+    "species_code": "olshon1",
+    "comName": "Yellow-streaked Honeyeater",
+    "sciName": "Ptiloprora meekiana"
+  },
+  {
+    "species_code": "mayhon1",
+    "comName": "Mayr's Honeyeater",
+    "sciName": "Ptiloprora mayri"
+  },
+  {
+    "species_code": "burhon1",
+    "comName": "Buru Honeyeater",
+    "sciName": "Lichmera deningeri"
+  },
+  {
+    "species_code": "blchon1",
+    "comName": "Black-chested Honeyeater",
+    "sciName": "Lichmera notabilis"
+  },
+  {
+    "species_code": "bkbtri2",
+    "comName": "Biak Triller",
+    "sciName": "Lalage leucoptera"
+  },
+  {
+    "species_code": "kaicus1",
+    "comName": "Kai Cicadabird",
+    "sciName": "Edolisoma dispar"
+  },
+  {
+    "species_code": "timcic1",
+    "comName": "Timor Cicadabird",
+    "sciName": "Edolisoma timoriense"
+  },
+  {
+    "species_code": "sancic1",
+    "comName": "Sangihe Cicadabird",
+    "sciName": "Edolisoma salvadorii"
+  },
+  {
+    "species_code": "comcic4",
+    "comName": "Geelvink Cicadabird",
+    "sciName": "Edolisoma meyerii"
+  },
+  {
+    "species_code": "comcic19",
+    "comName": "Banggai Cicadabird",
+    "sciName": "Edolisoma pelingi"
+  },
+  {
+    "species_code": "comcic20",
+    "comName": "Obi Cicadabird",
+    "sciName": "Edolisoma obiense"
+  },
+  {
+    "species_code": "sulcus1",
+    "comName": "Sula Cicadabird",
+    "sciName": "Edolisoma sula"
+  },
+  {
+    "species_code": "nomcic1",
+    "comName": "North Moluccan Cicadabird",
+    "sciName": "Edolisoma grayi"
+  },
+  {
+    "species_code": "comcic11",
+    "comName": "South Moluccan Cicadabird",
+    "sciName": "Edolisoma amboinense"
+  },
+  {
+    "species_code": "creber3",
+    "comName": "Western Crested Berrypecker",
+    "sciName": "Paramythia olivacea"
+  },
+  {
+    "species_code": "litshr6",
+    "comName": "Waigeo Shrikethrush",
+    "sciName": "Colluricincla affinis"
+  },
+  {
+    "species_code": "litshr1",
+    "comName": "Mamberamo Shrikethrush",
+    "sciName": "Colluricincla obscura"
+  },
+  {
+    "species_code": "golwhi2",
+    "comName": "Baliem Whistler",
+    "sciName": "Pachycephala balim"
+  },
+  {
+    "species_code": "biawhi1",
+    "comName": "Biak Whistler",
+    "sciName": "Pachycephala melanorhyncha"
+  },
+  {
+    "species_code": "arafan2",
+    "comName": "Supertramp Fantail",
+    "sciName": "Rhipidura semicollaris"
+  },
+  {
+    "species_code": "jobman1",
+    "comName": "Jobi Manucode",
+    "sciName": "Manucodia jobiensis"
+  },
+  {
+    "species_code": "molmon1",
+    "comName": "Moluccan Spectacled Monarch",
+    "sciName": "Symposiachrus bimaculatus"
+  },
+  {
+    "species_code": "whtmon2",
+    "comName": "Tanahjampea Monarch",
+    "sciName": "Symposiachrus everetti"
+  },
+  {
+    "species_code": "blbmon1",
+    "comName": "Kofiau Monarch",
+    "sciName": "Symposiachrus julianae"
+  },
+  {
+    "species_code": "gremel1",
+    "comName": "Greater Melampitta",
+    "sciName": "Megalampitta gigantea"
+  },
+  {
+    "species_code": "slbcro12",
+    "comName": "Sulawesi Crow",
+    "sciName": "Corvus celebensis"
+  },
+  {
+    "species_code": "obsber1",
+    "comName": "Obscure Berrypecker",
+    "sciName": "Melanocharis arfakiana"
+  },
+  {
+    "species_code": "snmrob1",
+    "comName": "Snow Mountain Robin",
+    "sciName": "Petroica archboldi"
+  },
+  {
+    "species_code": "sulgob2",
+    "comName": "Banggai Golden-Bulbul",
+    "sciName": "Hypsipetes harterti"
+  },
+  {
+    "species_code": "obigob1",
+    "comName": "Obi Golden-Bulbul",
+    "sciName": "Hypsipetes lucasi"
+  },
+  {
+    "species_code": "golbul4",
+    "comName": "Buru Golden-Bulbul",
+    "sciName": "Hypsipetes mysticalis"
+  },
+  {
+    "species_code": "selwar1",
+    "comName": "Selayar Leaf Warbler (undescribed form)",
+    "sciName": "Phylloscopus [undescribed Selayar form]"
+  },
+  {
+    "species_code": "isllew9",
+    "comName": "Numfor Leaf Warbler",
+    "sciName": "Phylloscopus maforensis"
+  },
+  {
+    "species_code": "whbwhe1",
+    "comName": "Eyebrowed Heleia",
+    "sciName": "Heleia superciliaris"
+  },
+  {
+    "species_code": "timwhe1",
+    "comName": "Timor Heleia",
+    "sciName": "Heleia muelleri"
+  },
+  {
+    "species_code": "burwhe1",
+    "comName": "Buru White-eye",
+    "sciName": "Zosterops buruensis"
+  },
+  {
+    "species_code": "cohmyn2",
+    "comName": "Tenggara Hill Myna",
+    "sciName": "Gracula venerata"
+  },
+  {
+    "species_code": "serthr2",
+    "comName": "Seram Thrush",
+    "sciName": "Geokichla joiceyi"
+  },
+  {
+    "species_code": "rabthr1",
+    "comName": "Red-and-black Thrush",
+    "sciName": "Geokichla mendeni"
+  },
+  {
+    "species_code": "molist1",
+    "comName": "Moluccan Island-Thrush",
+    "sciName": "Turdus deningeri"
+  },
+  {
+    "species_code": "whrsha17",
+    "comName": "Maratua Shama",
+    "sciName": "Copsychus barbouri"
+  },
+  {
+    "species_code": "flojuf1",
+    "comName": "Sumba Jungle Flycatcher",
+    "sciName": "Eumyias stresemanni"
+  },
+  {
+    "species_code": "subfly5",
+    "comName": "Kalao Blue Flycatcher",
+    "sciName": "Cyornis kalaoensis"
+  },
+  {
+    "species_code": "banjuf1",
+    "comName": "Banggai Jungle Flycatcher",
+    "sciName": "Cyornis pelingensis"
+  },
+  {
+    "species_code": "gresho1",
+    "comName": "Great Shortwing",
+    "sciName": "Heinrichia calligyna"
+  },
+  {
+    "species_code": "fibflo5",
+    "comName": "Sumatran Flowerpecker",
+    "sciName": "Dicaeum beccarii"
+  },
+  {
+    "species_code": "liswrb1",
+    "comName": "Lisu Wren-Babbler (undescribed form)",
+    "sciName": "Spelaeornis [undescribed form]"
+  },
+  {
+    "species_code": "sntbab1",
+    "comName": "Snowy-throated Babbler",
+    "sciName": "Stachyris oglei"
+  },
+  {
+    "species_code": "chblau1",
+    "comName": "Chestnut-backed Laughingthrush",
+    "sciName": "Pterorhinus nuchalis"
+  },
+  {
+    "species_code": "vartit2",
+    "comName": "Iriomote Tit",
+    "sciName": "Sittiparus olivaceus"
+  },
+  {
+    "species_code": "japrob3",
+    "comName": "Izu Robin",
+    "sciName": "Larvivora tanensis"
+  },
+  {
+    "species_code": "fowswi1",
+    "comName": "Forbes-Watson's Swift",
+    "sciName": "Apus berliozi"
+  },
+  {
+    "species_code": "reiwoo1",
+    "comName": "Speckle-throated Woodpecker",
+    "sciName": "Campethera scriptoricauda"
+  },
+  {
+    "species_code": "batapa4",
+    "comName": "Taita Apalis",
+    "sciName": "Apalis fuscigularis"
+  },
+  {
+    "species_code": "waicis2",
+    "comName": "Lynes's Cisticola",
+    "sciName": "Cisticola distinctus"
+  },
+  {
+    "species_code": "tarcis1",
+    "comName": "Tana River Cisticola",
+    "sciName": "Cisticola restrictus"
+  },
+  {
+    "species_code": "wincis4",
+    "comName": "Coastal Cisticola",
+    "sciName": "Cisticola haematocephalus"
+  },
+  {
+    "species_code": "pabill3",
+    "comName": "Tanzanian Illadopsis",
+    "sciName": "Illadopsis distans"
+  },
+  {
+    "species_code": "amasun2",
+    "comName": "Amani Sunbird",
+    "sciName": "Hedydipna pallidigaster"
+  },
+  {
+    "species_code": "rehwea3",
+    "comName": "Red Weaver",
+    "sciName": "Anaplectes jubaensis"
+  },
+  {
+    "species_code": "fifbis1",
+    "comName": "Fire-fronted Bishop",
+    "sciName": "Euplectes diadematus"
+  },
+  {
+    "species_code": "brnpri3",
+    "comName": "Annam Prinia",
+    "sciName": "Prinia rocki"
+  },
+  {
+    "species_code": "gyftib1",
+    "comName": "Gray-faced Tit-Babbler",
+    "sciName": "Mixornis kelleyi"
+  },
+  {
+    "species_code": "fibflo3",
+    "comName": "Cambodian Flowerpecker",
+    "sciName": "Dicaeum cambodianum"
+  },
+  {
+    "species_code": "soobab1",
+    "comName": "Sooty Babbler",
+    "sciName": "Stachyris herberti"
+  },
+  {
+    "species_code": "viecut1",
+    "comName": "Vietnamese Cutia",
+    "sciName": "Cutia legalleni"
+  },
+  {
+    "species_code": "houwre8",
+    "comName": "St. Lucia Wren",
+    "sciName": "Troglodytes mesoleucus"
+  },
+  {
+    "species_code": "bkrfla3",
+    "comName": "Black-rumped x Red-backed Flameback (hybrid)",
+    "sciName": "Dinopium benghalense x psarodes"
+  },
+  {
+    "species_code": "tsiwor1",
+    "comName": "Tsingy Forest Rail",
+    "sciName": "Mentocrex beankaensis"
+  },
+  {
+    "species_code": "retnew1",
+    "comName": "Red-tailed Newtonia",
+    "sciName": "Newtonia fanovanae"
+  },
+  {
+    "species_code": "gryemt1",
+    "comName": "Gray Emutail",
+    "sciName": "Bradypterus seebohmi"
+  },
+  {
+    "species_code": "bretai1",
+    "comName": "Brown Emutail",
+    "sciName": "Bradypterus brunneus"
+  },
+  {
+    "species_code": "dustet1",
+    "comName": "Dusky Tetraka",
+    "sciName": "Crossleyia tenebrosa"
+  },
+  {
+    "species_code": "plamar3",
+    "comName": "Madagascar Martin",
+    "sciName": "Riparia cowani"
+  },
+  {
+    "species_code": "x00633",
+    "comName": "Broad-billed x Violet-crowned Hummingbird (hybrid)",
+    "sciName": "Cynanthus latirostris x Ramosomyia violiceps"
+  },
+  {
+    "species_code": "x00620",
+    "comName": "Nuttall's x Ladder-backed Woodpecker (hybrid)",
+    "sciName": "Dryobates nuttallii x scalaris"
+  },
+  {
+    "species_code": "x00802",
+    "comName": "Ladder-backed x Hairy Woodpecker (hybrid)",
+    "sciName": "Dryobates scalaris x villosus"
+  },
+  {
+    "species_code": "houwre3",
+    "comName": "Cozumel Wren",
+    "sciName": "Troglodytes beani"
+  },
+  {
+    "species_code": "x00203",
+    "comName": "Northern x Tropical Parula (hybrid)",
+    "sciName": "Setophaga americana x pitiayumi"
+  },
+  {
+    "species_code": "whbmin2",
+    "comName": "Jerdon's Minivet",
+    "sciName": "Pericrocotus albifrons"
+  },
+  {
+    "species_code": "brnpri2",
+    "comName": "Burmese Prinia",
+    "sciName": "Prinia cooki"
+  },
+  {
+    "species_code": "sttbul2",
+    "comName": "Pale-eyed Bulbul",
+    "sciName": "Pycnonotus davisoni"
+  },
+  {
+    "species_code": "darbat1",
+    "comName": "Dark Batis",
+    "sciName": "Batis crypta"
+  },
+  {
+    "species_code": "capbat2",
+    "comName": "Malawi Batis",
+    "sciName": "Batis dimorpha"
+  },
+  {
+    "species_code": "afrtai2",
+    "comName": "African Tailorbird",
+    "sciName": "Artisornis metopias"
+  },
+  {
+    "species_code": "lessee1",
+    "comName": "Lesser Seedcracker",
+    "sciName": "Pyrenestes minor"
+  },
+  {
+    "species_code": "fuebou1",
+    "comName": "Fülleborn's Boubou",
+    "sciName": "Laniarius fuelleborni"
+  },
+  {
+    "species_code": "cavswi3",
+    "comName": "Bornean Swiftlet",
+    "sciName": "Collocalia dodgei"
+  },
+  {
+    "species_code": "satswi1",
+    "comName": "Satin Swiftlet",
+    "sciName": "Collocalia uropygialis"
+  },
+  {
+    "species_code": "quaind1",
+    "comName": "Quailfinch Indigobird",
+    "sciName": "Vidua nigeriae"
+  },
+  {
+    "species_code": "blalar4",
+    "comName": "Rufous-capped Lark",
+    "sciName": "Calandrella eremica"
+  },
+  {
+    "species_code": "azumog1",
+    "comName": "Azuero Mountain-gem (undescribed form)",
+    "sciName": "Lampornis [undescribed form]"
+  },
+  {
+    "species_code": "azuwar1",
+    "comName": "Azuero Warbler (undescribed form)",
+    "sciName": "Basileuterus [undescribed form]"
+  },
+  {
+    "species_code": "hifdov1",
+    "comName": "Henderson Island Fruit-Dove",
+    "sciName": "Ptilinopus insularis"
+  },
+  {
+    "species_code": "intant1",
+    "comName": "Inambari-Tambopata Antwren (undescribed form)",
+    "sciName": "Herpsilochmus [undescribed Inambari-Tambopata form]"
+  },
+  {
+    "species_code": "lorant1",
+    "comName": "Loreto Antwren (undescribed form)",
+    "sciName": "Herpsilochmus [undescribed Loreto form]"
+  },
+  {
+    "species_code": "lamtap1",
+    "comName": "Lambayeque Tapaculo (undescribed form)",
+    "sciName": "Scytalopus [undescribed Lambayeque form]"
+  },
+  {
+    "species_code": "manspi1",
+    "comName": "Mantaro Spinetail (undescribed form)",
+    "sciName": "Synallaxis [undescribed Mantaro form]"
+  },
+  {
+    "species_code": "daedov3",
+    "comName": "Tawitawi Brown-Dove",
+    "sciName": "Phapitreron cinereiceps"
+  },
+  {
+    "species_code": "luzrai1",
+    "comName": "Luzon Rail",
+    "sciName": "Lewinia mirifica"
+  },
+  {
+    "species_code": "luzbut1",
+    "comName": "Luzon Buttonquail",
+    "sciName": "Turnix worcesteri"
+  },
+  {
+    "species_code": "misowl2",
+    "comName": "Mindoro Scops-Owl",
+    "sciName": "Otus mindorensis"
+  },
+  {
+    "species_code": "babcuc24",
+    "comName": "Sulu Cuckooshrike",
+    "sciName": "Coracina guillemardi"
+  },
+  {
+    "species_code": "slbcro5",
+    "comName": "Sierra Madre Crow",
+    "sciName": "Corvus sierramadrensis"
+  },
+  {
+    "species_code": "luzwrb1",
+    "comName": "Cordillera Ground-Warbler",
+    "sciName": "Robsonius rabori"
+  },
+  {
+    "species_code": "bubfly1",
+    "comName": "Blue-breasted Blue Flycatcher",
+    "sciName": "Cyornis herioti"
+  },
+  {
+    "species_code": "bubfly2",
+    "comName": "Rufous-breasted Blue Flycatcher",
+    "sciName": "Cyornis camarinensis"
+  },
+  {
+    "species_code": "chtjuf3",
+    "comName": "Sulu Jungle Flycatcher",
+    "sciName": "Cyornis ocularis"
+  },
+  {
+    "species_code": "minsho1",
+    "comName": "Mindanao Shortwing (undescribed form)",
+    "sciName": "Brachypteryx [undescribed submontane Mindanao form]"
+  },
+  {
+    "species_code": "furfly1",
+    "comName": "Furtive Flycatcher",
+    "sciName": "Ficedula disposita"
+  },
+  {
+    "species_code": "yelpig1",
+    "comName": "Yellow-legged Pigeon",
+    "sciName": "Columba pallidiceps"
+  },
+  {
+    "species_code": "fiipig1",
+    "comName": "Finsch's Imperial-Pigeon",
+    "sciName": "Ducula finschii"
+  },
+  {
+    "species_code": "brucuc13",
+    "comName": "Solomons Brush Cuckoo",
+    "sciName": "Cacomantis addendus"
+  },
+  {
+    "species_code": "brucuc10",
+    "comName": "Manus Brush Cuckoo",
+    "sciName": "Cacomantis blandus"
+  },
+  {
+    "species_code": "blhbuz1",
+    "comName": "Black Honey-buzzard",
+    "sciName": "Henicopernis infuscatus"
+  },
+  {
+    "species_code": "nebgos1",
+    "comName": "New Britain Goshawk",
+    "sciName": "Tachyspiza princeps"
+  },
+  {
+    "species_code": "solsee1",
+    "comName": "Sanford's Sea-Eagle",
+    "sciName": "Icthyophaga sanfordi"
+  },
+  {
+    "species_code": "vardwk7",
+    "comName": "Manus Dwarf-Kingfisher",
+    "sciName": "Ceyx dispar"
+  },
+  {
+    "species_code": "vardwk9",
+    "comName": "New Britain Dwarf-Kingfisher",
+    "sciName": "Ceyx sacerdotis"
+  },
+  {
+    "species_code": "colkin17",
+    "comName": "Colonist Kingfisher",
+    "sciName": "Todiramphus colonus"
+  },
+  {
+    "species_code": "meppar1",
+    "comName": "Meek's Pygmy-Parrot",
+    "sciName": "Micropsitta meeki"
+  },
+  {
+    "species_code": "sinpar1",
+    "comName": "Singing Parrot",
+    "sciName": "Geoffroyus heteroclitus"
+  },
+  {
+    "species_code": "bispit1",
+    "comName": "Bismarck Pitta",
+    "sciName": "Erythropitta novaehibernicae"
+  },
+  {
+    "species_code": "loupit1",
+    "comName": "Louisiade Pitta",
+    "sciName": "Erythropitta meeki"
+  },
+  {
+    "species_code": "brbfai2",
+    "comName": "Campbell's Fairywren",
+    "sciName": "Chenorhamphus campbelli"
+  },
+  {
+    "species_code": "grahon3",
+    "comName": "Elegant Honeyeater",
+    "sciName": "Meliphaga cinereifrons"
+  },
+  {
+    "species_code": "lobmel1",
+    "comName": "Long-bearded Honeyeater",
+    "sciName": "Melionyx princeps"
+  },
+  {
+    "species_code": "x00742",
+    "comName": "Belford's x Yellow-browed Melidectes (hybrid)",
+    "sciName": "Melidectes belfordi x rufocrissalis"
+  },
+  {
+    "species_code": "bouhon1",
+    "comName": "Bougainville Honeyeater",
+    "sciName": "Stresemannia bougainvillei"
+  },
+  {
+    "species_code": "bismel1",
+    "comName": "Bismarck Honeyeater",
+    "sciName": "Vosea whitemanensis"
+  },
+  {
+    "species_code": "whcmyz1",
+    "comName": "White-chinned Myzomela",
+    "sciName": "Myzomela albigula"
+  },
+  {
+    "species_code": "neimyz1",
+    "comName": "New Ireland Myzomela",
+    "sciName": "Myzomela pulchella"
+  },
+  {
+    "species_code": "rubhon1",
+    "comName": "Rufous-backed Honeyeater",
+    "sciName": "Ptiloprora guisei"
+  },
+  {
+    "species_code": "neifri1",
+    "comName": "New Ireland Friarbird",
+    "sciName": "Philemon eichhorni"
+  },
+  {
+    "species_code": "melcus3",
+    "comName": "North Melanesian Cuckooshrike",
+    "sciName": "Coracina welchmani"
+  },
+  {
+    "species_code": "soicus1",
+    "comName": "Solomons Cicadabird",
+    "sciName": "Edolisoma holopolium"
+  },
+  {
+    "species_code": "mancic1",
+    "comName": "Manus Cicadabird",
+    "sciName": "Edolisoma admiralitatis"
+  },
+  {
+    "species_code": "cemcic1",
+    "comName": "Central Melanesian Cicadabird",
+    "sciName": "Edolisoma erythropygium"
+  },
+  {
+    "species_code": "comcic6",
+    "comName": "Bismarck Cicadabird",
+    "sciName": "Edolisoma remotum"
+  },
+  {
+    "species_code": "comcic5",
+    "comName": "Rossel Cicadabird",
+    "sciName": "Edolisoma rostratum"
+  },
+  {
+    "species_code": "soosht1",
+    "comName": "Sooty Shrikethrush",
+    "sciName": "Colluricincla tenebrosa"
+  },
+  {
+    "species_code": "litshr5",
+    "comName": "Variable Shrikethrush",
+    "sciName": "Colluricincla fortis"
+  },
+  {
+    "species_code": "litshr3",
+    "comName": "Sepik-Ramu Shrikethrush",
+    "sciName": "Colluricincla tappenbecki"
+  },
+  {
+    "species_code": "bohwhi1",
+    "comName": "Bougainville Hooded Whistler",
+    "sciName": "Pachycephala richardsi"
+  },
+  {
+    "species_code": "biswhi1",
+    "comName": "Bismarck Whistler",
+    "sciName": "Pachycephala citreogaster"
+  },
+  {
+    "species_code": "brbwhi1",
+    "comName": "Brown-backed Whistler",
+    "sciName": "Pachycephala modesta"
+  },
+  {
+    "species_code": "ruffan4",
+    "comName": "Louisiade Fantail",
+    "sciName": "Rhipidura louisiadensis"
+  },
+  {
+    "species_code": "lawpar2",
+    "comName": "Eastern Parotia",
+    "sciName": "Parotia helenae"
+  },
+  {
+    "species_code": "x00413",
+    "comName": "Stephanie's x Ribbon-tailed Astrapia (hybrid)",
+    "sciName": "Astrapia stephaniae x mayeri"
+  },
+  {
+    "species_code": "whbmon1",
+    "comName": "Mussau Monarch",
+    "sciName": "Symposiachrus menckei"
+  },
+  {
+    "species_code": "dulfly2",
+    "comName": "Mussau Flycatcher",
+    "sciName": "Myiagra hebetior"
+  },
+  {
+    "species_code": "velfly1",
+    "comName": "Velvet Flycatcher",
+    "sciName": "Myiagra eichhorni"
+  },
+  {
+    "species_code": "boucro1",
+    "comName": "Bougainville Crow",
+    "sciName": "Corvus meeki"
+  },
+  {
+    "species_code": "pacrob3",
+    "comName": "Solomons Robin",
+    "sciName": "Petroica polymorpha"
+  },
+  {
+    "species_code": "bouthi1",
+    "comName": "Bougainville Thicketbird",
+    "sciName": "Cincloramphus llaneae"
+  },
+  {
+    "species_code": "odedi1",
+    "comName": "Odedi",
+    "sciName": "Horornis haddeni"
+  },
+  {
+    "species_code": "wtweye1",
+    "comName": "Tagula White-eye",
+    "sciName": "Zosterops meeki"
+  },
+  {
+    "species_code": "bouthr1",
+    "comName": "Bougainville Thrush",
+    "sciName": "Zoothera atrigena"
+  },
+  {
+    "species_code": "islthr48",
+    "comName": "Bougainville Island-Thrush",
+    "sciName": "Turdus bougainvillei"
+  },
+  {
+    "species_code": "margrd1",
+    "comName": "Marquesan Ground Dove",
+    "sciName": "Pampusana rubescens"
+  },
+  {
+    "species_code": "rafdov1",
+    "comName": "Rapa Fruit-Dove",
+    "sciName": "Ptilinopus huttoni"
+  },
+  {
+    "species_code": "polswi1",
+    "comName": "Tahiti Swiftlet",
+    "sciName": "Aerodramus leucophaeus"
+  },
+  {
+    "species_code": "markin2",
+    "comName": "Marquesan Kingfisher",
+    "sciName": "Todiramphus godeffroyi"
+  },
+  {
+    "species_code": "iphmon2",
+    "comName": "Iphis Monarch",
+    "sciName": "Pomarea iphis"
+  },
+  {
+    "species_code": "uapmon1",
+    "comName": "Ua Pou Monarch",
+    "sciName": "Pomarea mira"
+  },
+  {
+    "species_code": "marmon2",
+    "comName": "Marquesan Monarch",
+    "sciName": "Pomarea mendozae"
+  },
+  {
+    "species_code": "kunapa1",
+    "comName": "Kungwe Apalis",
+    "sciName": "Apalis argentea"
+  },
+  {
+    "species_code": "korspa1",
+    "comName": "Kordofan Rufous Sparrow",
+    "sciName": "Passer cordofanicus"
+  },
+  {
+    "species_code": "scgdov1",
+    "comName": "Santa Cruz Ground Dove",
+    "sciName": "Pampusana sanctaecrucis"
+  },
+  {
+    "species_code": "cbipig1",
+    "comName": "Chestnut-bellied Imperial-Pigeon",
+    "sciName": "Ducula brenchleyi"
+  },
+  {
+    "species_code": "solboo2",
+    "comName": "Guadalcanal Owl",
+    "sciName": "Athene granti"
+  },
+  {
+    "species_code": "vardwk11",
+    "comName": "New Georgia Dwarf-Kingfisher",
+    "sciName": "Ceyx collectoris"
+  },
+  {
+    "species_code": "yevmyz1",
+    "comName": "Yellow-vented Myzomela",
+    "sciName": "Myzomela eichhorni"
+  },
+  {
+    "species_code": "soomyz1",
+    "comName": "Sooty Myzomela",
+    "sciName": "Myzomela tristrami"
+  },
+  {
+    "species_code": "guahon1",
+    "comName": "Guadalcanal Honeyeater",
+    "sciName": "Guadalcanaria inexpectata"
+  },
+  {
+    "species_code": "fatger3",
+    "comName": "Rennell Gerygone",
+    "sciName": "Gerygone citrina"
+  },
+  {
+    "species_code": "solcuc4",
+    "comName": "Malaita Cicadabird",
+    "sciName": "Edolisoma tricolor"
+  },
+  {
+    "species_code": "cicada7",
+    "comName": "Makira Cicadabird",
+    "sciName": "Edolisoma salomonis"
+  },
+  {
+    "species_code": "guhwhi1",
+    "comName": "Guadalcanal Hooded Whistler",
+    "sciName": "Pachycephala implicata"
+  },
+  {
+    "species_code": "temwhi2",
+    "comName": "Nendo Whistler",
+    "sciName": "Pachycephala ornata"
+  },
+  {
+    "species_code": "renwhi1",
+    "comName": "Rennell Whistler",
+    "sciName": "Pachycephala feminina"
+  },
+  {
+    "species_code": "sacfan1",
+    "comName": "Santa Cruz Fantail",
+    "sciName": "Rhipidura melanolaema"
+  },
+  {
+    "species_code": "brnfan2",
+    "comName": "Guadalcanal Fantail",
+    "sciName": "Rhipidura ocularis"
+  },
+  {
+    "species_code": "dusfan1",
+    "comName": "Dusky Fantail",
+    "sciName": "Rhipidura tenebrosa"
+  },
+  {
+    "species_code": "vanmon1",
+    "comName": "Vanikoro Monarch",
+    "sciName": "Mayrornis schistaceus"
+  },
+  {
+    "species_code": "bktshr2",
+    "comName": "Santa Cruz Shrikebill",
+    "sciName": "Clytorhynchus sanctaecrucis"
+  },
+  {
+    "species_code": "bawmon4",
+    "comName": "Malaita Monarch",
+    "sciName": "Symposiachrus malaitae"
+  },
+  {
+    "species_code": "velmon1",
+    "comName": "Vella Lavella Monarch",
+    "sciName": "Symposiachrus nigrotectus"
+  },
+  {
+    "species_code": "guathi1",
+    "comName": "Guadalcanal Thicketbird",
+    "sciName": "Cincloramphus turipavae"
+  },
+  {
+    "species_code": "sclwar1",
+    "comName": "Makira Leaf Warbler",
+    "sciName": "Phylloscopus makirensis"
+  },
+  {
+    "species_code": "kullew1",
+    "comName": "Kolombangara Leaf Warbler",
+    "sciName": "Phylloscopus amoenus"
+  },
+  {
+    "species_code": "shawar1",
+    "comName": "Shade Warbler",
+    "sciName": "Horornis parens"
+  },
+  {
+    "species_code": "sacwhe1",
+    "comName": "Santa Cruz White-eye",
+    "sciName": "Zosterops sanctaecrucis"
+  },
+  {
+    "species_code": "saweye2",
+    "comName": "Sanford's White-eye",
+    "sciName": "Zosterops lacertosus"
+  },
+  {
+    "species_code": "gytwhe4",
+    "comName": "Guadalcanal White-eye",
+    "sciName": "Zosterops oblitus"
+  },
+  {
+    "species_code": "spweye2",
+    "comName": "Splendid White-eye",
+    "sciName": "Zosterops luteirostris"
+  },
+  {
+    "species_code": "gaweye1",
+    "comName": "Ranongga White-eye",
+    "sciName": "Zosterops splendidus"
+  },
+  {
+    "species_code": "kulwhe1",
+    "comName": "Kolombangara White-eye",
+    "sciName": "Zosterops murphyi"
+  },
+  {
+    "species_code": "rensta1",
+    "comName": "Rennell Starling",
+    "sciName": "Aplonis insularis"
+  },
+  {
+    "species_code": "sacsta1",
+    "comName": "Makira Starling",
+    "sciName": "Aplonis dichroa"
+  },
+  {
+    "species_code": "sacthr2",
+    "comName": "Makira Thrush",
+    "sciName": "Zoothera margaretae"
+  },
+  {
+    "species_code": "sacthr3",
+    "comName": "Guadalcanal Thrush",
+    "sciName": "Zoothera turipavae"
+  },
+  {
+    "species_code": "vanist1",
+    "comName": "Vanikoro Island-Thrush",
+    "sciName": "Turdus vanikorensis"
+  },
+  {
+    "species_code": "warlin1",
+    "comName": "Warsangli Linnet",
+    "sciName": "Linaria johannis"
+  },
+  {
+    "species_code": "x00805",
+    "comName": "Pale-headed x Bamboo Woodpecker (hybrid)",
+    "sciName": "Gecinulus grantia x viridis"
+  },
+  {
+    "species_code": "rosmin3",
+    "comName": "Brown-rumped x Rosy Minivet (hybrid)",
+    "sciName": "Pericrocotus cantonensis x roseus"
+  },
+  {
+    "species_code": "x01136",
+    "comName": "Siamese Pied Starling x Great Myna (hybrid)",
+    "sciName": "Gracupica floweri x Acridotheres grandis"
+  },
+  {
+    "species_code": "x00744",
+    "comName": "Light-vented x Styan's Bulbul (hybrid)",
+    "sciName": "Pycnonotus sinensis x taivanus"
+  },
+  {
+    "species_code": "udzpar1",
+    "comName": "Udzungwa Partridge",
+    "sciName": "Xenoperdix udzungwensis"
+  },
+  {
+    "species_code": "usahyl1",
+    "comName": "Usambara Hyliota",
+    "sciName": "Hyliota usambara"
+  },
+  {
+    "species_code": "mrmwar1",
+    "comName": "Mrs. Moreau's Warbler",
+    "sciName": "Scepomycter winifredae"
+  },
+  {
+    "species_code": "kilcis1",
+    "comName": "Kilombero Cisticola",
+    "sciName": "Cisticola bakerorum"
+  },
+  {
+    "species_code": "usabul1",
+    "comName": "Usambara Greenbul",
+    "sciName": "Phyllastrephus albigula"
+  },
+  {
+    "species_code": "peweye1",
+    "comName": "Pemba White-eye",
+    "sciName": "Zosterops vaughani"
+  },
+  {
+    "species_code": "usaaka1",
+    "comName": "Usambara Akalat",
+    "sciName": "Sheppardia montana"
+  },
+  {
+    "species_code": "bansun1",
+    "comName": "Banded Sunbird",
+    "sciName": "Anthreptes rubritorques"
+  },
+  {
+    "species_code": "mafsun1",
+    "comName": "Mafwemiro Sunbird (undescribed form)",
+    "sciName": "Anthreptes [undescribed form]"
+  },
+  {
+    "species_code": "tanmaw1",
+    "comName": "Tanganyika Masked-Weaver",
+    "sciName": "Ploceus reichardi"
+  },
+  {
+    "species_code": "usawea1",
+    "comName": "Usambara Weaver",
+    "sciName": "Ploceus nicolli"
+  },
+  {
+    "species_code": "tansee1",
+    "comName": "Kipengere Seedeater",
+    "sciName": "Crithagra melanochroa"
+  },
+  {
+    "species_code": "karapa2",
+    "comName": "Karamoja Apalis",
+    "sciName": "Apalis karamojae"
+  },
+  {
+    "species_code": "sasgre1",
+    "comName": "Sassi's Greenbul",
+    "sciName": "Phyllastrephus lorenzi"
+  },
+  {
+    "species_code": "x00689",
+    "comName": "Scaled x Gambel's Quail (hybrid)",
+    "sciName": "Callipepla squamata x gambelii"
+  },
+  {
+    "species_code": "y00315",
+    "comName": "California x Gambel's Quail (hybrid)",
+    "sciName": "Callipepla californica x gambelii"
+  },
+  {
+    "species_code": "x01101",
+    "comName": "Rivoli's x White-eared Hummingbird (hybrid)",
+    "sciName": "Eugenes fulgens x Basilinna leucotis"
+  },
+  {
+    "species_code": "mxbhum1",
+    "comName": "Rivoli's x Berylline Hummingbird (hybrid)",
+    "sciName": "Eugenes fulgens x Saucerottia beryllina"
+  },
+  {
+    "species_code": "x00635",
+    "comName": "Black x Say's Phoebe (hybrid)",
+    "sciName": "Sayornis nigricans x saya"
+  },
+  {
+    "species_code": "x00643",
+    "comName": "Black-tailed x Black-capped Gnatcatcher (hybrid)",
+    "sciName": "Polioptila melanura x nigriceps"
+  },
+  {
+    "species_code": "x00865",
+    "comName": "Veery x Bicknell's Thrush (hybrid)",
+    "sciName": "Catharus fuscescens x bicknelli"
+  },
+  {
+    "species_code": "x00870",
+    "comName": "Canyon x Abert's Towhee (hybrid)",
+    "sciName": "Melozone fusca x aberti"
+  },
+  {
+    "species_code": "x00476",
+    "comName": "Canyon x Spotted Towhee (hybrid)",
+    "sciName": "Melozone fusca x Pipilo maculatus"
+  },
+  {
+    "species_code": "x00638",
+    "comName": "Colima x Virginia's Warbler (hybrid)",
+    "sciName": "Leiothlypis crissalis x virginiae"
+  },
+  {
+    "species_code": "x00748",
+    "comName": "Gray-crowned x Common Yellowthroat (hybrid)",
+    "sciName": "Geothlypis poliocephala x trichas"
+  },
+  {
+    "species_code": "x00896",
+    "comName": "Painted x Slate-throated Redstart (hybrid)",
+    "sciName": "Myioborus pictus x miniatus"
+  },
+  {
+    "species_code": "x00826",
+    "comName": "Hepatic x Flame-colored Tanager (hybrid)",
+    "sciName": "Piranga flava x bidentata"
+  },
+  {
+    "species_code": "gyccro1",
+    "comName": "Gray-crowned Crocias",
+    "sciName": "Laniellus langbianis"
+  },
+  {
+    "species_code": "tafdov1",
+    "comName": "Tanna Fruit-Dove",
+    "sciName": "Ptilinopus tannensis"
+  },
+  {
+    "species_code": "baipig1",
+    "comName": "Baker's Imperial-Pigeon",
+    "sciName": "Ducula bakeri"
+  },
+  {
+    "species_code": "strfan2",
+    "comName": "Vanuatu Streaked Fantail",
+    "sciName": "Rhipidura spilodera"
+  },
+  {
+    "species_code": "mousta1",
+    "comName": "Mountain Starling",
+    "sciName": "Aplonis santovestris"
+  },
+  {
+    "species_code": "saweye1",
+    "comName": "Samoan White-eye",
+    "sciName": "Zosterops samoensis"
+  },
+  {
+    "species_code": "soccis1",
+    "comName": "Socotra Cisticola",
+    "sciName": "Cisticola haesitatus"
+  },
+  {
+    "species_code": "x01009",
+    "comName": "Miombo x Pied Barbet (hybrid)",
+    "sciName": "Tricholaema frontata x leucomelas"
+  }
+]
