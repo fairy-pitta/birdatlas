@@ -68,3 +68,11 @@ class ObservationSGSpecies(models.Model):
 
     def __str__(self):
         return f"{self.species.com_name} seen at {self.observation}"
+    
+class SGBird(models.Model):
+    species_code = models.CharField(max_length=50, unique=True)
+    com_name = models.CharField(max_length=200)
+    sci_name = models.CharField(max_length=200)
+
+    def __str__(self):
+        return f"{self.com_name} ({self.sci_name})"
